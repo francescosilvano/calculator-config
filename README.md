@@ -2,7 +2,7 @@
 
 This repository contains settings, guides, and shortcuts for the Texas Instruments BA II Plus and BA II Plus Professional financial calculators. It's designed to help users—especially those preparing for financial exams like CFA and FRM—set up their calculator efficiently.
 
-This project supports both the standard BA II Plus and the BA II Plus Professional models.
+This guide supports both the standard BA II Plus and the BA II Plus Professional models.
 
 ## Contents
 
@@ -15,7 +15,7 @@ This project supports both the standard BA II Plus and the BA II Plus Profession
 
 ## Checklist for Financial Exam Setup
 
-Here’s a quick checklist to ensure your calculator is set up correctly for financial exams:
+Here’s a quick checklist to ensure your calculator is set up correctly for your exam:
 
 - [ ] **Set Decimal Places**: Set to 2 decimal places.
 - [ ] **Date Format**: Ensure the date format is set to Month-Day-Year (M-D-Y).

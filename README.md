@@ -61,6 +61,10 @@ This repository supports the following models of Texas Instruments calculators:
 | **BA II Plus**              | Basic financial functions, limited to two decimal places.           |
 | **BA II Plus Professional** | Includes advanced financial functions like bond and depreciation.   |
 
+## Future updates
+
+I plan to create a way to quickly deploy a configuration file readable by TI Connect for newer calculators.  
+
 ## License
 
 This project is licensed under the [Unlicense license](LICENSE).

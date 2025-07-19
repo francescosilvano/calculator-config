@@ -1,1 +1,0 @@
-# Placeholder for ba-ii-pro-advanced-settings.md

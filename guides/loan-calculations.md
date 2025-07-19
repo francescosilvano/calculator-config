@@ -1,1 +1,1 @@
-# Placeholder for loan-calculations.md
+# Loan calculations

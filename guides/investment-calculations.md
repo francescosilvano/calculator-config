@@ -1,1 +1,1 @@
-# Placeholder for investment-calculations.md
+# Investment calculations

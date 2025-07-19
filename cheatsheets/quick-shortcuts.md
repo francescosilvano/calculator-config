@@ -1,0 +1,1 @@
+# General shortcuts for calculator operations

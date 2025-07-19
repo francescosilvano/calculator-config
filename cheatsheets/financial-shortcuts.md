@@ -1,0 +1,1 @@
+# Shortcuts for financial calculations
